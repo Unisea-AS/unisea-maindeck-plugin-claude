@@ -1,0 +1,19 @@
+{
+  "name": "unisea-maindeck",
+  "displayName": "UniSea Maindeck",
+  "version": "1.0.0",
+  "description": "Plan and follow up ship repair and newbuild projects in UniSea Maindeck.",
+  "author": {
+    "name": "Unisea AS",
+    "url": "https://www.maindeck.io"
+  },
+  "homepage": "https://www.maindeck.io",
+  "license": "Apache-2.0",
+  "keywords": [
+    "maindeck",
+    "unisea",
+    "dry-docking",
+    "ship-repair",
+    "project-management"
+  ]
+}

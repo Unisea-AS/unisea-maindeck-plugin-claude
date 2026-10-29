@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "maindeck": {
+      "type": "http",
+      "url": "https://app.maindeck.io/api/mcp"
+    }
+  }
+}
