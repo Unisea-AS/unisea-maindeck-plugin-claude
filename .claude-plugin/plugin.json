@@ -7,7 +7,11 @@
     "name": "Unisea AS",
     "url": "https://www.maindeck.io"
   },
-  "homepage": "https://www.maindeck.io",
+  "homepage": "https://www.unisea.no/modules/maindeck",
+  "icon": "./assets/logo.png",
+  "supportUrl": "https://support.unisea.no",
+  "privacyPolicyUrl": "https://www.unisea.no/privacy-policy",
+  "termsOfServiceUrl": "https://www.unisea.no/terms-and-conditions",
   "license": "Apache-2.0",
   "keywords": [
     "maindeck",
